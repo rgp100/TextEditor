@@ -1,1 +1,1 @@
-# shitext
+# Tkinter Based Text Editor
